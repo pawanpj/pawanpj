@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Pawan Joshi. 
-- 👀 I am a highly motivated and skilled professional with an M.Sc. in Data Science, offering a solid technical background and 3+ years of research and development experience in Machine Learning, Deep Learning, and Natural Language Processing. Adept at solving complex problems and delivering results-driven solutions.
+- 👀 A highly motivated and skilled professional with an M.Sc. in Data Science, offering a solid technical background and 3+ years of research and development experience      in Machine Learning, Deep Learning, and Natural Language Processing. Adept at solving complex problems and delivering results-driven solutions.
 - 💞️ I’m looking to collaborate on different ranges of projects related to Data Science.
 
 <!---
